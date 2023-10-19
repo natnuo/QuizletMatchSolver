@@ -2,7 +2,7 @@
 
 IMPORTANT
 
-<b>RUN THE CODE BEFORE PRESSING THE "Start game" BUTTON</b>
+<b>RUN THE CODE BEFORE PRESSING THE "Start game" BUTTON.</b>
 
 <b>CODE MAY <u>ONLY</u> BE RUN WHEN YOU SEE THE "Start game" BUTTON. THE CODE DOES NOT WORK WITH THE "Play again" BUTTON.</b>
 
@@ -51,7 +51,7 @@ To use, paste the code above (with settings modified as necessary) into the cons
 
 <img src="images/devtoolsconsole.png" alt="" height="200"/>
 <p style="line-height:1.2rem;">
-<sup>note: above image contains old versions of this code, but the concept of pasting into devtools is the same</sup></p>
+<sup>note: above image contains old versions of this code, but the concept of pasting into devtools is the same.</sup></p>
 
 To re-run the program at the "Play again" page, refresh the page, then paste + run the code again in DevTools.
 
@@ -69,7 +69,8 @@ To re-run the program at the "Play again" page, refresh the page, then paste + r
   After copying the text, paste the result in-between the two ` `` ` characters following `pairs:`. Do not add extra new-lines, tabs, or spaces. For example:
 
   ```js
-  pairs: `You are the impostor	Tu es l'imposteur
+  const settings = {
+    pairs: `You are the impostor	Tu es l'imposteur
   I am a crewmate	Je suis un membre d'équipe
   I am a ghost	Je suis un fantôme
   What map do you prefer?	Tu préfères quelle carte?
@@ -83,7 +84,9 @@ To re-run the program at the "Play again" page, refresh the page, then paste + r
   where	où
   i am dead	je suis mort(e)
   I am innocent	Je suis innocent(e)
-  Good game	bien joué`;
+  Good game	bien joué`,
+    score: 1400,
+  };
   ```
 
   - On a set you do not own, copy the set first, then get `pairs` using the copied set that you own.
