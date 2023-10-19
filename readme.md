@@ -1,5 +1,7 @@
 # Quizlet Match "Cheat" for Updated Quizlet
 
+---
+
 IMPORTANT
 
 <b>RUN THE CODE BEFORE PRESSING THE "Start game" BUTTON.</b>
