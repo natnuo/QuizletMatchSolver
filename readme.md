@@ -1,8 +1,14 @@
 # Quizlet Match "Cheat" for Updated Quizlet
 
-<b>Please read the bold text below which addresses how to run the code without error.</b>
+IMPORTANT
 
-The following can achieve a min 1.3s score for any quizlet match set:
+<b>RUN THE CODE BEFORE PRESSING THE "Start game" BUTTON</b>
+
+<b>CODE MAY <u>ONLY</u> BE RUN WHEN YOU SEE THE "Start game" BUTTON. THE CODE DOES NOT WORK WITH THE "Play again" BUTTON.</b>
+
+---
+
+The following can achieve a min 1.3s score for any Quizlet Match set:
 
 ```js
 const settings = {
@@ -46,11 +52,6 @@ To use, paste the code above (with settings modified as necessary) into the cons
 <img src="images/devtoolsconsole.png" alt="" height="200"/>
 <p style="line-height:1.2rem;">
 <sup>note: above image contains old versions of this code, but the concept of pasting into devtools is the same</sup></p>
-
-IMPORTANT
-<b>RUN THE CODE BEFORE PRESSING THE "Start game" BUTTON</b>
-
-<b>CODE MAY <u>ONLY</u> BE RUN WHEN YOU SEE THE "Start game" BUTTON. THE CODE DOES NOT WORK WITH THE "Play again" BUTTON.</b>
 
 To re-run the program at the "Play again" page, refresh the page, then paste + run the code again in DevTools.
 
