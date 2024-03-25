@@ -1,4 +1,4 @@
-# Quizlet Match "Cheat" for Updated Quizlet
+# Quizlet Match Solver for Updated Quizlet
 
 ---
 
