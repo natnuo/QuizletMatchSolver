@@ -55,7 +55,7 @@ To use, paste the code above (with settings modified as necessary) into the cons
 <p style="line-height:1.2rem;">
 <sup>note: above image contains old versions of this code, but the concept of pasting into devtools is the same.</sup></p>
 
-To re-run the program at the "Play again" page, refresh the page, then paste + run the code again in DevTools.
+To re-run the program at Quizlet's "Play again" page, refresh the page, then paste + run the code again in DevTools.
 
 ## Settings
 
