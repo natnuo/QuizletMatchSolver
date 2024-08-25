@@ -95,4 +95,7 @@ To re-run the program at Quizlet's "Play again" page, refresh the page, then pas
 
   <img src="images/copy.png" alt="" width="200"/>
 
-- `score` is the time in milliseconds that you want your score to be. Exact score may be slightly above or below this setting, but will be in the general range. The minimum recomended value for `score` is `1500`, but values as low as `1384` work <u>on some computers</u>. Values too low may cause errors. Exact scores may fluctuate every time the code is run. Allow quizlet & dev tools to fully load for minimum scores.
+- `score` is the time in milliseconds that you want your score to be. Exact score may be slightly above or below this setting, but will be in the general range. The minimum recomended value for `score` is `1500`, but values as low as `1384` work <u>on some computers</u>. Values too low may cause errors. Exact scores may fluctuate every time the code is run. Allow Quizlet & DevTools to fully load for minimum scores.
+
+
+yes, i sacrificed my chemistry grade to make this dumb quizlet match solver :<<
